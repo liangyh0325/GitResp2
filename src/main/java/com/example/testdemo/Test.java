@@ -10,4 +10,6 @@ package com.example.testdemo;
  * @Version 1.0
  */
 public class Test {
+    private int age;
+    private String name;
 }
