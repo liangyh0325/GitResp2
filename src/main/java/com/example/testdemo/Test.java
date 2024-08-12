@@ -13,4 +13,5 @@ public class Test {
     private int age;
     private String name;
     private String id;
+	public String a;
 }
