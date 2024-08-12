@@ -14,4 +14,5 @@ public class Test {
     private String name;
     private String id;
 	public String a;
+	public String b;
 }
